@@ -1,5 +1,5 @@
-//Escreva um programa que leia um número inteiro e imprima a sua tabuada de
-//multiplicação de 1 a 10.
+//Escreva um programa que leia um nÃºmero inteiro e imprima a sua tabuada de
+//multiplicaÃ§Ã£o de 1 a 10.
 #include<stdio.h>
 
 int main(){
