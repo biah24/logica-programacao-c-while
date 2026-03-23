@@ -1,5 +1,5 @@
-//Desenvolva um programa que solicite ao usuário quantos números ele deseja inserir
-//e, em seguida, calcule e exiba a média desses números.
+//Desenvolva um programa que solicite ao usuÃ¡rio quantos nÃºmeros ele deseja inserir
+//e, em seguida, calcule e exiba a mÃ©dia desses nÃºmeros.
 
 #include<stdio.h>
 
