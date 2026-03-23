@@ -1,6 +1,6 @@
-//Desenvolva um programa que converta um valor monet·rio informado pelo usu·rio
-//em uma outra moeda. O usu·rio dever· escolher entre trÍs moedas de destino: DÛlar,
-//Euro ou Peso, e o programa exibir· o valor convertido.
+//Desenvolva um programa que converta um valor monet√°rio informado pelo usu√°rio
+//em uma outra moeda. O usu√°rio dever√° escolher entre tr√™s moedas de destino: D√≥lar,
+//Euro ou Peso, e o programa exibir√° o valor convertido.
 
 #include<stdio.h>
 
@@ -28,7 +28,7 @@ int main(){
 				
 		case 2: 
 			resultado = valor * 6.25;
-				printf("R$%.2f equivale a Ä%.2f", valor,resultado);
+				printf("R$%.2f equivale a ‚Ç¨%.2f", valor,resultado);
 		break;
 				
 		case 3: 
