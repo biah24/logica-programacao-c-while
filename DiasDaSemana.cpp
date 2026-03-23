@@ -1,6 +1,6 @@
-//Escreva um programa que receba um número de 1 a 7 e exiba o dia da semana
-//correspondente (1 para Domingo, 2 para Segunda-feira, etc.). Se o número não for fora
-//do intervalo de 1 a 7, o programa deve exibir uma mensagem “Número inválida”.
+//Escreva um programa que receba um nÃºmero de 1 a 7 e exiba o dia da semana
+//correspondente (1 para Domingo, 2 para Segunda-feira, etc.). Se o nÃºmero nÃ£o for fora
+//do intervalo de 1 a 7, o programa deve exibir uma mensagem â€œNÃºmero invÃ¡lidaâ€.
 
 #include<stdio.h>
 
